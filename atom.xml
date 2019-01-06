@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-06T03:42:56.203Z</updated>
+  <updated>2019-01-06T03:45:30.178Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,15 @@
     <link href="http://yoursite.com/2019/01/05/%E6%82%A8%E5%A5%BD-Hexxo/"/>
     <id>http://yoursite.com/2019/01/05/您好-Hexxo/</id>
     <published>2019-01-05T14:49:46.000Z</published>
-    <updated>2019-01-06T03:42:56.203Z</updated>
+    <updated>2019-01-06T03:45:30.178Z</updated>
     
-    <content type="html"><![CDATA[<p>#hello world</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="hello-world"><a href="#hello-world" class="headerlink" title="#hello world"></a>#hello world</h2>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;#hello world&lt;/p&gt;
-
+        &lt;h2 id=&quot;hello-world&quot;&gt;&lt;a href=&quot;#hello-world&quot; class=&quot;headerlink&quot; title=&quot;#hello world&quot;&gt;&lt;/a&gt;#hello world&lt;/h2&gt;
       
     
     </summary>
